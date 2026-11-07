@@ -1,0 +1,17 @@
+[theme]
+font = "Noto Sans KR:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap, sans-serif"
+baseRadius = "medium"
+showWidgetBorder = true
+
+[theme.light]
+primaryColor = "#4F46E5"
+
+[theme.dark]
+primaryColor = "#818CF8"
+
+[server]
+# 파일당 최대 업로드 크기(MB). Streamlit Cloud 메모리·API 비용 보호
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
