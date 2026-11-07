@@ -1,0 +1,15 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sample PDFs in the project root (test inputs, not app assets)
+/*.pdf
+
+# Playwright MCP output
+.playwright-mcp/
