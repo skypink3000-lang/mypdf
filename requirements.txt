@@ -1,0 +1,5 @@
+streamlit>=1.67,<2
+openai>=3.46,<4
+pypdf>=7.0,<8
+cryptography>=50.0
+python-dotenv>=1.2,<2
